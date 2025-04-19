@@ -13,9 +13,9 @@ for i in range(1, 5):
     sleep(1)
 ranking = sorted(jogadores.items(), key=itemgetter(1), reverse=True)
 print('-=' * 20)
-print('== RANKING DOS JOGADORES ==')
+print('    == RANKING DOS JOGADORES ==')
 for i, v in enumerate(ranking):
-    print(f'{i + 1}º lugar: {v[0]} com {v[1]}')
+    print(f'    {i + 1}º lugar: {v[0]} com {v[1]}')
     sleep(1)
 print('-=' * 20)
-print('== FIM DO JOGO ==')
+print('    == FIM DO JOGO ==')
