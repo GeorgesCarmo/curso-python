@@ -1,0 +1,5 @@
+Georges;29
+Ryu;37
+Ken Maycols;39
+Jack Chan;75
+Neguim da Pimenta;81
