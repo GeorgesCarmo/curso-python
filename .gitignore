@@ -1,1 +1,5 @@
 /meu_ambiente
+#Ignorando todas as pastas __pycache__ do projeto
+__pycache__/
+# Ignorando todos os arquivos .pyc do projeto
+*.pyc
